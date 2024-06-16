@@ -32,7 +32,7 @@
 
 [fix(vue): Avoid Render Warning Loop in Vue3 Apps](https://github.com/getsentry/sentry-javascript/pull/6014)
 
-[[new feature] Consider error conditions in the List and add an error-text attribute](https://github.com/getsentry/sentry-javascript/pull/5843)
+[[new feature] Consider error conditions in the List and add an error-text attribute](https://github.com/youzan/vant/pull/2568)
 
 [feat(browser): Use proxy for XHR instrumentation](https://github.com/getsentry/sentry-javascript/pull/5843)
 

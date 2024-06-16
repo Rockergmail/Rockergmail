@@ -14,26 +14,26 @@
 
 ### My high rated posts
 
-![Record problems encountered during the implementation of qiankun (micro-frontends solution).](https://segmentfault.com/a/1190000042063582)
+[Record problems encountered during the implementation of qiankun (micro-frontends solution).](https://segmentfault.com/a/1190000042063582)
 
-![A Clear, Simple, and Easy-to-Understand Analysis of the Main Workflow of qiankun (micro-frontends solution).](https://segmentfault.com/a/1190000042063022)
+[A Clear, Simple, and Easy-to-Understand Analysis of the Main Workflow of qiankun (micro-frontends solution).](https://segmentfault.com/a/1190000042063022)
 
-![Source code analysis of vue-cli-service.](https://segmentfault.com/a/1190000040982683)
+[Source code analysis of vue-cli-service.](https://segmentfault.com/a/1190000040982683)
 
-![Record the optimization process of a Vite 2.x build.](https://segmentfault.com/a/1190000041464140)
+[Record the optimization process of a Vite 2.x build.](https://segmentfault.com/a/1190000041464140)
 
-![Analyze the bundling principle of Vite 2.x/Rollup, and address the issue of chunk fragmentation.](https://segmentfault.com/a/1190000041919468)
+[Analyze the bundling principle of Vite 2.x/Rollup, and address the issue of chunk fragmentation.](https://segmentfault.com/a/1190000041919468)
 
-![Document technical selection for micro-frontend.](https://segmentfault.com/a/1190000042062164)
+[Document technical selection for micro-frontend.](https://segmentfault.com/a/1190000042062164)
 
-![Practice of Jenkins deployment for mini-program (a Chinese well-known hybrid app).](https://segmentfault.com/a/1190000023527617)
+[Practice of Jenkins deployment for mini-program (a Chinese well-known hybrid app).](https://segmentfault.com/a/1190000023527617)
 
 ### PRs I made
 
-![fix(vue): Avoid Render Warning Loop in Vue3 Apps](https://github.com/getsentry/sentry-javascript/pull/6014)
+[fix(vue): Avoid Render Warning Loop in Vue3 Apps](https://github.com/getsentry/sentry-javascript/pull/6014)
 
-![[new feature] Consider error conditions in the List and add an error-text attribute](https://github.com/getsentry/sentry-javascript/pull/5843)
+[[new feature] Consider error conditions in the List and add an error-text attribute](https://github.com/getsentry/sentry-javascript/pull/5843)
 
-![feat(browser): Use proxy for XHR instrumentation](https://github.com/getsentry/sentry-javascript/pull/5843)
+[feat(browser): Use proxy for XHR instrumentation](https://github.com/getsentry/sentry-javascript/pull/5843)
 
-![feat(vue): export vueInit func](https://github.com/getsentry/sentry-javascript/pull/5757)
+[feat(vue): export vueInit func](https://github.com/getsentry/sentry-javascript/pull/5757)
